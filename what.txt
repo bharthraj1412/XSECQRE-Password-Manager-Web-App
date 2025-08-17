@@ -1,0 +1,9 @@
+1-user must authenticate using pharese and gmail auth
+
+2-user can store passwords like sitename:
+username , and password
+with date ago
+
+in using password hide icon
+
+
