@@ -4,6 +4,7 @@ XSECQRE is a web-based **password manager** built with **Python, Flask, and SQLi
 It allows users to **sign up, log in, and securely store, view, update, and delete passwords**. Each user can only access their own data, and passwords are stored as **hashed values** for security.
 
 ---
+website hosted: https://xsecqre.onrender.com/
 
 ## Features
 
